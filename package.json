@@ -1,0 +1,19 @@
+{
+  "name": "jan12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jan12.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
