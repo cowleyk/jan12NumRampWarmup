@@ -26,3 +26,4 @@ function rampNum(n){
 }
 
 module.exports = rampNum;
+//export fxn
